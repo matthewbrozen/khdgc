@@ -60,7 +60,7 @@ submit.addEventListener('click', event => {
 
         for(var i = 0; i<arr.length;i++){
             console.log(arr[i]);
-            document.getElementById('list').insertAdjacentHTML('beforeend',`<div> ${arr[i].name} shot a ${arr[i].score} on  ${arr[i].date}</div>`);
+            document.getElementById('list').insertAdjacentHTML('beforeend',`<div> ${arr[i].name} shot a ${arr[i].score} on  ${arr[i].date}</div><br>`);
       
         }
 
