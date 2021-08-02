@@ -31,3 +31,10 @@ body {
 #score-list div{
   text-align:center;
 }
+
+
+@media only screen and (max-width: 720px) {
+  .pdga-logo{
+    width:50%;
+  }
+}
