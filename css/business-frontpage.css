@@ -32,6 +32,13 @@ body {
   text-align:center;
 }
 
+.discimage{
+  width:400px;
+  height:400px;
+  margin:0 auto;
+  display: inline-block;
+}
+
 
 @media only screen and (max-width: 720px) {
   .pdga-logo{
