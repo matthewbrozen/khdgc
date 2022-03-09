@@ -44,4 +44,10 @@ body {
   .pdga-logo{
     width:50%;
   }
+
+  .discimage{
+    display: block;
+    width:300px;
+    height:300px;
+  }
 }
